@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
+    <div className='bg-gradient-to-r from-pink-600 to-purple-600 h-screen pt-10'>
      <TodoApp/>
+    </div>
     </>
   )
 }
